@@ -1,0 +1,11 @@
+{
+  "name": "akkorokamui-killer",
+  "version": "1.0.0",
+  "description": "Sample repo to reproduce gitkraken bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keroosha",
+  "license": "ISC"
+}
